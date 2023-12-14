@@ -1,2 +1,8 @@
 # lnws-kiosk
- Kiosk-installasjoner
+ Kiosk-installasjoner:
+ 
+ 
+KlokkeKiosk:
+  ```shell
+  wget https://raw.githubusercontent.com/LNWS-Melbu/lnws-kiosk/main/klokkekiosk/lnws-kiosk-installer.sh; chmod +x lnws-kiosk-installer.sh; ./lnws-kiosk-installer.sh
+  ```
