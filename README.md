@@ -1,0 +1,2 @@
+# lnws-kiosk
+ Kiosk-installasjoner
