@@ -17,7 +17,7 @@ apt-get install \
 mkdir -p /home/lnws/.config/openbox
 
 # create group
-groupadd lnws
+# groupadd lnws
 
 # create user if not exists
 id -u lnws &>/dev/null || useradd -m lnws -g lnws -s /bin/bash 
