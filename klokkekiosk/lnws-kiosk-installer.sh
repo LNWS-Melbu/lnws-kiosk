@@ -72,7 +72,7 @@ do
     --disable-session-crashed-bubble \
     --incognito \
     --start-fullscreen \
-    --lnws "http://scada.melbu.leroy.no/data/perspective/client/Klokke"
+    --lnws "http://scada.melbu.leroy.no/data/perspective/client/Infoskjermer/Video/Gyro3_Combined"
   sleep 5
 done &
 EOF
