@@ -71,7 +71,6 @@ do
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
     --incognito \
-	--start-fullscreen \
     --lnws "http://scada.melbu.leroy.no/data/perspective/client/Klokke"
   sleep 5
 done &
