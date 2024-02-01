@@ -8,5 +8,5 @@ KlokkeKiosk:
   ```
 Gyro3Kiosk:
   ```shell
-  wget https://raw.githubusercontent.com/LNWS-Melbu/lnws-kiosk/main/gyro3kiosk/lnws-kiosk-installer.sh; chmod +x lnws-kiosk-installer.sh; ./lnws-kiosk-installer.sh
+  wget https://raw.githubusercontent.com/LNWS-Melbu/lnws-kiosk/main/Gyro3kiosk/lnws-kiosk-installer.sh; chmod +x lnws-kiosk-installer.sh; ./lnws-kiosk-installer.sh
   ```
